@@ -20,7 +20,8 @@
         "phpunit/phpunit": "~6.0",
         "facade/ignition": "^2.5",
         "laravel/telescope": "^4.6",
-        "nunomaduro/collision": "^5.0"
+        "nunomaduro/collision": "^5.0",
+        "heroku/heroku-buildpack-php":"dev-master"
     },
     "autoload": {
         "classmap": [
